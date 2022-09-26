@@ -1,2 +1,2 @@
 # CSE110
-Tung Nguyen's User Page
+Tung Nguyen's User
