@@ -57,5 +57,5 @@ My dream is that by the time I graduate, I will be able to identiy and fix the d
 &nbsp;
 
 ## Projects I'm working on
-I don't have anything going on right now so here is a picture of me horseback riding during the summer as placeholder:
-<a href="https://drive.google.com/uc?export=view&id=1OOSC5k2-JdWdkIqw60pWAVZUPL82eG0s"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+I don't have anything going on right now so here is a picture of me horg during the summer as placeholder:
+![Horse](Horse.HEIC)
