@@ -58,4 +58,5 @@ My dream is that by the time I graduate, I will be able to identiy and fix the d
 
 ## Projects I'm working on
 I don't have anything going on right now so here is a picture of me horg during the summer as placeholder:
-![Horse](Horse.HEIC)
+
+![](Horse.png)
